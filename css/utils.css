@@ -1,0 +1,36 @@
+.color-fff {
+    color: white; 
+}
+.pd-t-10 {
+    padding: 10px 0;
+}
+.txt-center {
+    text-align: center;
+}
+.mg-0 {
+    margin: 0;
+}
+.pd-0 {
+    padding: 0;
+}
+.pd-20 {
+    padding: 20px;
+}
+.mg-b {
+    margin-bottom: 10px; 
+}
+.bg-333 {
+    background: #333
+}
+.w-100 {
+    width: 100%;
+}
+.bg-fff {
+    background: #fff;
+}
+.pd-10 {
+    padding: 10px; 
+}
+.box-sh {
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); 
+}
